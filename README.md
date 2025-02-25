@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceokon1
-- 👀 I’m interested in computer science,code web :)))
-- 🌱 I’m currently learning highschool
+- 👀 I’m interested in infosec :)))
+- 🌱 I’m sephomore in PTIT :))
 - 💞️ I’m looking to collaborate on my cat :)))
 - 📫 How to reach me ? hmmm, no way :v
 
